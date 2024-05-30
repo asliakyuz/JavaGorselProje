@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: org.example.Main
+Class-Path: javax.mail-1.6.2.jar activation-1.1.jar
+
